@@ -17,7 +17,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/img/back3.png);
+  background-image: url("sparta/fighting/img/back3.png");
   background-color: dimgray;
   background-size: cover;
   background-position: center;
